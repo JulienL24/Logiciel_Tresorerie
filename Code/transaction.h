@@ -1,8 +1,6 @@
 /**
 \file transaction.h
 \date 10/06/2020
-\author Charles Boidot
-\author Emilien Carrez
 \version 1
 \brief  Fichier d'entête pour les transactions
 
