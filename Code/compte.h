@@ -1,8 +1,6 @@
 /**
 \file compte.h
 \date 06/06/2020
-\author Charles Boidot
-\author Emilien Carrez
 \version 1
 \brief  Fichier d'entête pour les comptes
 
